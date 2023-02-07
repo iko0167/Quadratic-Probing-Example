@@ -25,7 +25,9 @@ int main()
         for(int j = 0; j < sizeD; j++)
             printf("%d\t", D[j]);
         printf("\n");
+
     }
+    printf("DONE");
 
     return 0;
 }
